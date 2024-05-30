@@ -9,7 +9,7 @@ import App from './App';
 //Se importa Bootstrap para todas las paginas
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-axios.defaults.baseURL='https://bazaruniversal20backend-production.up.railway.app';
+axios.defaults.baseURL='https://bazar-universal2-0-back-end.vercel.app';
 
 
 // Crea un root utilizando createRoot
